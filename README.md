@@ -4,3 +4,6 @@ In era of AI-enhanced healthcare realignment, disease forecasting with accuracy 
 It works like a web-based application that provides users the facilities to enter the symptoms and returns immediate predictions as well as warning suggestions. Its design facilitates practical scalability, reliability, and usability in health environments. This paper links AI diagnosis with clinical utility in practical contexts, giving full clarity and decision support. It will continue on improving the model for use within resource-limited healthcare environments while incorporating deep learning techniques into the medical imaging space to detect total diseases.
 
 Dive into the Bot: "https://health-care-meta.vercel.app/"
+
+**Architecture Diagram:**
+![Architecture Diagram](https://github.com/user-attachments/assets/9e4653c7-52d2-4867-ab61-26808820d3c8)
